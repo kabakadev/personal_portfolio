@@ -311,6 +311,10 @@ footer {
   height: 26vh;
   margin: 0 1rem;
 }
+.footer-flex {
+  display: flex;
+  justify-content: center;
+}
 footer p {
   text-align: center;
 }
