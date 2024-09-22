@@ -308,13 +308,13 @@ p > span {
 }
 /* footer section */
 footer {
-  height: 26vh;
+  height: calc(100vh - 100px);
   margin: 0 1rem;
 }
 .footer-flex {
   display: flex;
   justify-content: center;
-  align-items: end;
+  align-items: center;
 }
 footer p {
   text-align: center;
