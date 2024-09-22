@@ -51,6 +51,9 @@
   }
 }
 @media screen and (max-width: 600px) {
+  .optimize {
+    font-size: 0.8rem;
+  }
   .article-container {
     gap: 1rem;
   }
@@ -109,5 +112,11 @@
   .article-container {
     gap: 0.2rem;
     padding: 0;
+  }
+  .skills-container {
+    font-size: 1rem;
+  }
+  .optimize {
+    font-size: 0.6rem;
   }
 }
