@@ -368,6 +368,16 @@ body.dark-mode img {
 body.dark-mode img {
   filter: brightness(0.5) contrast(0.9);
 }
+.dark-mode .social-container img {
+  background: white;
+  border-radius: 50%;
+  filter: brightness(0.8) contrast(0.9);
+}
+.dark-mode .contact-icon {
+  background: white;
+  border-radius: 50%;
+  filter: brightness(0.8) contrast(0.9);
+}
 /* Dark Mode Styles */
 body.dark-mode .details-container {
   background-color: #333; /* Dark background */
