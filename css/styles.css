@@ -16,7 +16,7 @@ body {
 nav {
   display: flex;
   justify-content: space-around;
-  background-color: darkgray;
+  background-color: rgb(43, 42, 42);
   align-items: center;
   height: 20vh;
 }
@@ -48,15 +48,15 @@ p {
     transition: all 300ms ease-in;
 } */
 a {
-  color: black;
+  color: rgb(118, 115, 115);
   text-decoration: none;
   text-decoration-color: white;
 }
 a:hover {
-  color: grey;
+  color: rgb(255, 255, 255);
   text-decoration: underline;
   text-underline-offset: 0.4rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(255, 254, 254);
 }
 .hamburger-nav {
   display: none;
