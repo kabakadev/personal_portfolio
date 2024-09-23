@@ -13,7 +13,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It s
 - Sections include "About Me", "Projects", "Contact".
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox, Grid)
+- CSS3 (Flexbox)
 - JavaScript (Minimal interactivity)
 ## Installation
 1. Clone the repository:
