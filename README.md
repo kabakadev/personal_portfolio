@@ -18,7 +18,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kabakadev/portfolio.git
+   git clone https://github.com/kabakadev/personal_portfolio.git
    ```
 2. Open `index.html` in your browser to view the website.
 3. ## Usage
