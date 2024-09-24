@@ -20,14 +20,14 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. It s
    ```bash
    git clone https://github.com/kabakadev/personal_portfolio.git
    ```
-3.Navigate to the project directory:
+3. Navigate to the project directory:
   ```bash
    cd personal_portfolio
   ```
-. Open `index.html` in your browser to view the website. 
-. open index.html  # macOS
-. xdg-open index.html  # Linux
-. start index.html  # Windows
+- Open `index.html` in your browser to view the website. 
+  * open index.html  # macOS
+  * xdg-open index.html  # Linux
+  * start index.html  # Windows
 
 4. ## Usage
 Open the live website on your preffered browser [here](https://kabakadev.github.io/personal_portfolio//). Navigate through the sections to learn more about my skills and projects.
